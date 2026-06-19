@@ -79,7 +79,7 @@ export default function Footer() {
 
               <li>
                 <Link
-                  href="/about-us"
+                  href="#"
                   className="text-gray-400 hover:text-red-500 transition"
                 >
                   About Us
@@ -97,7 +97,7 @@ export default function Footer() {
 
               <li>
                 <Link
-                  href="/contact-us"
+                  href="#"
                   className="text-gray-400 hover:text-red-500 transition"
                 >
                   Contact Us

@@ -35,7 +35,7 @@ export default function Navbar() {
             </Link>
 
             <Link
-              href="/about-us"
+              href="#"
               className="font-medium text-slate-700 hover:text-red-500 transition"
             >
               About Us
@@ -80,14 +80,14 @@ export default function Navbar() {
             </Link>
 
             <Link
-              href="/gallery"
+              href="#"
               className="font-medium text-slate-700 hover:text-red-500 transition"
             >
               Gallery
             </Link>
 
             <Link
-              href="/contact-us"
+              href="#"
               className="font-medium text-slate-700 hover:text-red-500 transition"
             >
               Contact Us
@@ -128,7 +128,7 @@ export default function Navbar() {
             </Link>
 
             <Link
-              href="/about-us"
+              href="#"
               className="py-3 border-b border-gray-100"
               onClick={() => setMobileMenu(false)}
             >
@@ -187,7 +187,7 @@ export default function Navbar() {
             )}
 
             <Link
-              href="/gallery"
+              href="/#"
               className="py-3 border-b border-gray-100"
               onClick={() => setMobileMenu(false)}
             >
@@ -195,7 +195,7 @@ export default function Navbar() {
             </Link>
 
             <Link
-              href="/contact-us"
+              href="#"
               className="py-3 border-b border-gray-100"
               onClick={() => setMobileMenu(false)}
             >
