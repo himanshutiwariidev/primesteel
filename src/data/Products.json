@@ -1,0 +1,246 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "MS Products",
+      "slug": "ms-products",
+      "image": "/1.png",
+      "description": "Premium Mild Steel Products",
+      "products": [
+  
+  {
+    "id": 1,
+    "name": "MS Pipe",
+    "slug": "ms-pipe",
+    "image": "/gallery1.webp",
+    "description": "High-quality Mild Steel Pipes used in construction, fabrication and industrial applications.",
+    "features": [
+      "High Strength",
+      "Durable",
+      "Easy Welding",
+      "Multiple Sizes",
+      "Industrial Grade"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "MS Round Bar",
+    "slug": "ms-round-bar",
+    "image": "/gallery3.webp",
+    "description": "Premium Mild Steel Round Bars suitable for engineering, fabrication and structural projects.",
+    "features": [
+      "Excellent Finish",
+      "High Tensile Strength",
+      "Easy Machining",
+      "Reliable Quality",
+      "Long Lasting"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "MS Plate",
+    "slug": "ms-plate",
+    "image": "/gallery5.jpg",
+    "description": "Heavy-duty Mild Steel Plates used in industrial, fabrication and construction sectors.",
+    "features": [
+      "Robust Construction",
+      "High Load Capacity",
+      "Corrosion Resistant",
+      "Various Thicknesses",
+      "Easy Processing"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "MS Patti",
+    "slug": "ms-patti",
+    "image": "/gallery7.webp",
+    "description": "Premium quality Mild Steel Patti for fabrication and industrial manufacturing applications.",
+    "features": [
+      "Uniform Thickness",
+      "Easy Fabrication",
+      "Strong Material",
+      "Long Life",
+      "Industrial Use"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "MS Tikki",
+    "slug": "ms-tikki",
+    "image": "/mstikki.webp",
+    "description": "Reliable Mild Steel Tikki suitable for fabrication, structural and industrial purposes.",
+    "features": [
+      "Superior Quality",
+      "Precision Finish",
+      "Durable",
+      "Cost Effective",
+      "Multiple Dimensions"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "MS Angle",
+    "slug": "ms-angle",
+    "image": "/msangle.jpg",
+    "description": "High-strength Mild Steel Angles used in structural frameworks and industrial projects.",
+    "features": [
+      "Structural Support",
+      "High Durability",
+      "Excellent Finish",
+      "Easy Installation",
+      "Multiple Sizes"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "MS Channel",
+    "slug": "ms-channel",
+    "image": "/mschannel.jpeg",
+    "description": "Premium quality Mild Steel Channels designed for structural and engineering applications.",
+    "features": [
+      "Heavy Duty",
+      "Excellent Strength",
+      "Long Service Life",
+      "Reliable Performance",
+      "Industrial Grade"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "MS Beam",
+    "slug": "ms-beam",
+    "image": "/msbeam.jpg",
+    "description": "Strong and durable Mild Steel Beams used in construction and infrastructure projects.",
+    "features": [
+      "High Load Capacity",
+      "Structural Stability",
+      "Durable Material",
+      "Corrosion Resistance",
+      "Long Lasting"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "MS Flat",
+    "slug": "ms-flat",
+    "image": "/products/ms-flat.jpg",
+    "description": "High-grade Mild Steel Flats suitable for fabrication and construction applications.",
+    "features": [
+      "Smooth Finish",
+      "Easy Processing",
+      "Strong Material",
+      "Available in Various Sizes",
+      "Industrial Quality"
+    ]
+  }
+]
+    },
+    {
+      "id": 2,
+      "name": "Stainless Steel Products",
+      "slug": "stainless-steel-products",
+      "image": "/2.png",
+      "description": "Premium Stainless Steel Products",
+      "products": [
+         {
+    "id": 10,
+    "name": "SS Pipe",
+    "slug": "ss-pipe",
+    "image": "/products/ss-pipe.jpg",
+    "description": "Premium Stainless Steel Pipes offering excellent corrosion resistance and durability.",
+    "features": ["Rust Resistant", "Premium Finish", "High Strength", "Multiple Grades", "Long Service Life"]
+  },
+  {
+    "id": 11,
+    "name": "SS Sheet",
+    "slug": "ss-sheet",
+    "image": "/products/ss-sheet.jpg",
+    "description": "High-quality Stainless Steel Sheets suitable for industrial and architectural applications.",
+    "features": ["Smooth Surface", "Corrosion Resistant", "Easy Fabrication", "Premium Quality", "Multiple Thicknesses"]
+  },
+  {
+    "id": 12,
+    "name": "SS Coil",
+    "slug": "ss-coil",
+    "image": "/products/ss-coil.jpg",
+    "description": "Precision Stainless Steel Coils used in manufacturing and industrial production.",
+    "features": ["Consistent Quality", "Corrosion Resistant", "High Flexibility", "Durable", "Industrial Grade"]
+  },
+  {
+    "id": 13,
+    "name": "SS Plate",
+    "slug": "ss-plate",
+    "image": "/products/ss-plate.jpg",
+    "description": "Heavy-duty Stainless Steel Plates designed for demanding industrial environments.",
+    "features": ["High Strength", "Corrosion Resistant", "Long Lasting", "Excellent Finish", "Multiple Sizes"]
+  },
+  {
+    "id": 14,
+    "name": "SS Rod",
+    "slug": "ss-rod",
+    "image": "/products/ss-rod.jpg",
+    "description": "Premium Stainless Steel Rods suitable for fabrication and engineering applications.",
+    "features": ["Superior Strength", "Excellent Finish", "Rust Resistant", "Durable", "Industrial Quality"]
+  },
+  {
+    "id": 15,
+    "name": "SS Round Bar",
+    "slug": "ss-round-bar",
+    "image": "/products/ss-round-bar.jpg",
+    "description": "Precision Stainless Steel Round Bars used in manufacturing and construction sectors.",
+    "features": ["High Durability", "Corrosion Resistance", "Smooth Finish", "Easy Machining", "Premium Grade"]
+  },
+  {
+    "id": 16,
+    "name": "Bright Bar",
+    "slug": "bright-bar",
+    "image": "/products/bright-bar.jpg",
+    "description": "High-quality Bright Bars manufactured for precision engineering applications.",
+    "features": ["Excellent Surface Finish", "High Precision", "Strong Material", "Reliable Quality", "Long Life"]
+  },
+  {
+    "id": 17,
+    "name": "SS Circle",
+    "slug": "ss-circle",
+    "image": "/products/ss-circle.jpg",
+    "description": "Premium Stainless Steel Circles suitable for cookware, fabrication and industrial uses.",
+    "features": ["Precision Cutting", "Smooth Finish", "Corrosion Resistant", "Durable", "Multiple Sizes"]
+  },
+  {
+    "id": 18,
+    "name": "SS Strip",
+    "slug": "ss-strip",
+    "image": "/products/ss-strip.jpg",
+    "description": "High-grade Stainless Steel Strips used in manufacturing and fabrication industries.",
+    "features": ["Flexible Material", "Corrosion Resistant", "Consistent Thickness", "Premium Quality", "Industrial Grade"]
+  }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Industrial Scrap",
+      "slug": "industrial-scrap",
+      "image":  "/3.png",
+      "description": "Industrial Scrap Materials",
+      "products": [
+        {
+    "id": 19,
+    "name": "SS Scrap",
+    "slug": "ss-scrap",
+    "image": "/products/ss-scrap.jpg",
+    "description": "Quality Stainless Steel Scrap suitable for recycling and industrial processing applications.",
+    "features": ["High Recyclability", "Quality Material", "Cost Effective", "Industrial Use", "Bulk Availability"]
+  },
+  {
+    "id": 20,
+    "name": "MS Scrap",
+    "slug": "ms-scrap",
+    "image": "/products/ms-scrap.jpg",
+    "description": "Premium Mild Steel Scrap available for recycling and manufacturing industries.",
+    "features": ["Bulk Supply", "Reusable Material", "Industrial Grade", "Cost Efficient", "Reliable Availability"]
+  }
+      ]
+    }
+  ]
+}
